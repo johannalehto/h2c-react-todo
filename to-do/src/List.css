@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(130, 223, 210);
+    color:rgb(54, 54, 54);
+}
+
+.note {
+    background-color: #fff;
+    margin: 60px auto;
+    padding: 40px;
+    box-shadow: 5px 5px #888888;
+}
+
